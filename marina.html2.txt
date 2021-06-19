@@ -1,7 +1,7 @@
 ﻿<html>
   <head>
     <title>My Sites</title>
-    <link rel="stylesheet" href="style.css"/>
+    <link rel="stylesheet" href="marina_style.css"/>
   </head>
   <body>
     <header>
