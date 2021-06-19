@@ -1,0 +1,24 @@
+﻿<html>
+  <head>
+    <title>My Sites</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h1>Мои сайты</h1>
+      <p class="text-big"><b>от конструктора Tilda до вёрстки на HTML и CSS</b></p>
+      <p><a class="link-text" href="http://catalogg.tilda.ws/"><b>Сайт</b></a> про мое лето,был собран в Tilda</p>
+        <p><a class="link-text" href="http://catalogg.tilda.ws/psychology"><b>Сайт</b></a> о телеграм канале про психологию</p>
+     
+      <p><a class="link-text" href="https://www.figma.com/file/yJ5xvz8KVMHojc2Z0R4Yh1/%D0%BC5%D1%834-%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82"><b>Макет</b></a> многостраничного сайта, сделанный в Figma</p>
+     <p><a class="link-text" href="http://catalogg.tilda.ws/page15754931.html"><b>Сайт</b></a> магазина растений,сделанный в Tilde</p>
+    </main>
+    <footer>
+      <a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/Group%201_0_1618254571.png" width="80px" height="85px"/></a>
+      <a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/social3_0_1618254571.png" width="80px" height="85px"/></a>
+    </footer>
+  </body>
+</html>

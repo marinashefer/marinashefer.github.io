@@ -1,0 +1,29 @@
+﻿<html>
+  <head>
+    <title>Обо мне</title>
+    <link rel="stylesheet" href="style.css"/>
+  </head>
+  <body>
+    <header>
+      <a class="link-header" href="index.html">Главная</a>
+    </header>
+    <main>
+      <h1>Шефер Марина</h1>
+      <ul>
+          <li>делаю сайты</li>
+        <li>люблю читать книги</li>
+        <li>играю на фортепиано</li>
+        <li>я хотела бы изучать иностранные языки</li>
+        <li>люблю проводить время с семьей и друзьями</li>
+      </ul>
+      <img class=
+      "hobbies"src="https://media.istockphoto.com/photos/close-up-of-happy-womans-hand-playing-the-piano-in-the-morning-picture-id901538534?k=6&m=901538534&s=612x612&w=0&h=QnA36AI-c6BILne6DP5Av8vIZXsiNPexpkl8FKzbMXk=" width="330px" height="190px"/>
+      
+      <img class="hobbies"src="https://media.istockphoto.com/photos/stack-of-books-on-table-in-the-room-picture-id1227235401?b=1&k=6&m=1227235401&s=170667a&w=0&h=aDnkjoHzuGWDMNew1PQJoBXyKBrwgqCwUPXUNS7wtMA=" width="330px" height="190px"/>
+    </main>
+    <footer>
+      <a class="social" href="https://vk.com/shefer.marina"><img src="https://mars.algoritmika.org/uploads/2021/04/Group%201_0_1618254571.png" width="80px" height="80px"/></a>
+      <a class="social" href="https://www.instagram.com/msheferr/"><img src="https://mars.algoritmika.org/uploads/2021/04/social3_0_1618254571.png" width="80px" height="80px"/></a>
+    </footer>
+  </body>
+</html>
